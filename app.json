@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.3.1",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "name": "Moally-md@1.3.1",
+  "description": "I am Moally-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://chat.whatsapp.com/HjC5UTnClvpHGxAqXVIx8L",
+  "logo": "https://telegra.ph/file/702db039d2c0d81081a29.jpg",
+  "keywords": ["whatsappbot", "MoallyMd", "Moally Md bot", "Moally-Md", "MoallyMdWhatsaooBot", "MoallyWaBot","MoallyMD","Moally Md Whatsapp Bot","multi device"],
+  "success_url": "/Moally/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "MO_ALLY",
       "required" :true
     },   
      
@@ -32,12 +32,12 @@
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/758549f0de2219884f387.jpg,https://telegra.ph/file/9498496b010dfb5900b80.jpg,https://telegra.ph/file/59bf80efbb6e6576b5a52.jpg,https://telegra.ph/file/ee0e191363161e88e4743.jpg"
+      "value": "https://telegra.ph/file/702db039d2c0d81081a29.jpg,https://telegra.ph/file/702db039d2c0d81081a29.jpg,https://telegra.ph/file/702db039d2c0d81081a29.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Tanzania/dodoma"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "255615495137"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -114,12 +114,12 @@
     }, 
     "ELEVENLAB_API_KEY": {
       "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
-      "value": "",
+      "value": "",0cdb1aed858329b9793413672094ce0d
       "required" :false
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "",yepeTQaFk7r9ymusihgXYvdN
       "required" :false
     },
     "MODE": {
@@ -128,7 +128,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Moally Md",
       "required": false 
     },
     "PACK_AUTHER": {
